@@ -1,1 +1,2 @@
-hihi github
+This is your local content
+This is remote content from GitHub
